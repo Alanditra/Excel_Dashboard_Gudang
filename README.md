@@ -2,7 +2,7 @@
 
 Proyek latihan analisis data untuk melihat seberapa baik supplier dan ekspedisi mengirim barang ke gudang: tepat waktu atau tidak, lengkap atau tidak, dan berapa yang diretur.
 
-**File:** `data_latihan_gudang_perbaikan.xlsx` (Excel)
+**File:** `data_latihan_gudang_portofolio alanditra.xlsx` (Excel)
 
 ## Tujuan
 
